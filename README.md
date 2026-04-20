@@ -28,6 +28,8 @@ Graduation Year: 2028
 
 ## Projects
 
+![Link to Video Recording]()
+
 ## Week 2 Assessment 4 Video Recording
 
  - Video recording was done in Screen Pal. During the assignment, we created a slideshow.
@@ -35,8 +37,8 @@ Graduation Year: 2028
  - [insert project 1 screenshot here]
  - Project 1 Report
 ***
-#### Project 2 Title
- - Project 2 Summary
+#### Personality Test
+ - I used 
  - [insert project 2 screenshot here]
  - Project 2 Report
 ***
