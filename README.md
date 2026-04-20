@@ -8,7 +8,8 @@ Phone: 7327408388
 Email: emmahkilbride@gmail.com
 
 ***
-![img.png](Assets/img.png)
+<img src="Assets/img.png" width="150">
+
 ### About Me 
 Hello! I am an experienced pharmaceutical professional with over 3 years of proven expertise in pharmaceutical sales.
 With skills in communication, problem-solving, adaptability, and critical thinking, I am able to analyze marketing strategies,
@@ -38,7 +39,7 @@ Graduation Year: 2028
  - Project 1 Report
 ***
 #### Personality Test
- - I used 
+ - I created a personality test using PyCharm that displays 
  - [insert project 2 screenshot here]
  - Project 2 Report
 ***
