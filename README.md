@@ -8,7 +8,7 @@ Phone: 7327408388
 Email: emmahkilbride@gmail.com
 
 ***
-
+![img.png](Assets/img.png)
 ### About Me 
 Hello! I am an experienced pharmaceutical professional with over 3 years of proven expertise in pharmaceutical sales.
 With skills in communication, problem-solving, adaptability, and critical thinking, I am able to analyze marketing strategies,
