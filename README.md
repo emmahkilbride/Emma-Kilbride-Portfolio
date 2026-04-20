@@ -5,8 +5,6 @@
 <img src="Assets/Banner Photo.jpeg" width="100%">
 
 
-
-
 ***
 Contact Info:
 Phone: 7327408388
