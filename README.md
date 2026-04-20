@@ -32,17 +32,21 @@ Graduation Year: 2028
 
 ## Projects
 
-![Link to Video Recording]()
 
-## Week 2 Assessment 4 Video Recording
+##  Video Recording
 
  - Video recording was done in Screen Pal. During the assignment, we created a slideshow.
  - The slideshow went over all the topics we learned within the first 2 weeks of the semester.
- - [insert project 1 screenshot here]
- - Project 1 Report
+ - ![screenshot.png](Assets/screenshot.png)
+ - During the recording, I first discussed the first module covering basic computer services we went over.
+ - I then discussed the files and directory structure which covers how to organize and sort files on your computer.
+ - I included a discussion of the Binary Code and standardized coding methods discussed in class.
+ - Finally, I compared Google, Microsoft, and Apple Ecosystems and their functions.
+ - Link to Video Recording:(https://go.screenpal.com/watch/cOVuc5n33zb)
 ***
-#### Personality Test
- - I created a personality test using PyCharm that displays 
+## Personality Test
+ - I created a personality test using PyCharm that displays different questions to determine a personality type of an individual.
+ - 
  - [insert project 2 screenshot here]
  - Project 2 Report
 ***
