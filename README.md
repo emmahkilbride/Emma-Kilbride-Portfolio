@@ -2,13 +2,18 @@
 # Emma Kilbride
 ## Portfolio
 ***
+<img src="Assets/Banner Photo.jpeg" width="100%">
 
+
+
+
+***
 Contact Info:
 Phone: 7327408388
 Email: emmahkilbride@gmail.com
-
 ***
-<img src="Assets/img.png" width="150">
+
+<img src="Assets/img.png" width="250">
 
 ### About Me 
 Hello! I am an experienced pharmaceutical professional with over 3 years of proven expertise in pharmaceutical sales.
