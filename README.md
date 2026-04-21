@@ -2,7 +2,7 @@
 # Emma Kilbride
 ## Portfolio
 ***
-<img src="Assets/Banner Photo.jpeg" width="100%">
+<img src="Assets/Banner Photo.jpeg" width="410%">
 
 
 ***
@@ -42,8 +42,7 @@ Graduation Year: 2028
  - I then discussed the files and directory structure which covers how to organize and sort files on your computer.
  - I included a discussion of the Binary Code and standardized coding methods discussed in class.
  - Finally, I compared Google, Microsoft, and Apple Ecosystems and their functions.
-
- - Link to Video Recording:(https://go.screenpal.com/watch/cOVuc5n33zb)
+ - [Link to Video Recording](https://go.screenpal.com/watch/cOVuc5n33zb)
 ***
 ## Personality Test
  - I created a personality test using PyCharm that displays different questions to determine personality types of individual.
@@ -52,7 +51,8 @@ Graduation Year: 2028
  - During The Personality Test, people can pick 4 answer options listed as A, B, C, and D
  - Depending on the answer you pick, your personality may be determined as extroverted, introverted, analytical, or creative
  - Once answering each question, you can run a code to determine the results and it will give you which personality you are closest associated with.
-Link to Personality Test: https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-emmahkilbride
+Link to Personality Test: [Link to Personality Test](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-emmakilbride)
+
 ***
 ## Grade Calculator
  - During this assignment, we created a grade calculator using Excel.
