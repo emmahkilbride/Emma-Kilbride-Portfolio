@@ -42,6 +42,10 @@ Graduation Year: 2028
  - I then discussed the files and directory structure which covers how to organize and sort files on your computer.
  - I included a discussion of the Binary Code and standardized coding methods discussed in class.
  - Finally, I compared Google, Microsoft, and Apple Ecosystems and their functions.
+ - The problem I set out to solve was reinforcing my understanding of early course concepts in a video
+ - I initially found it difficult to explain technical concepts clearly in the recording
+ - I overcame this challenge by practicing my explanations beforehand and re-recording sections
+ - I used ScreenPal for recording and Microsoft PowerPoint
  - [Link to Video Recording](https://go.screenpal.com/watch/cOVuc5n33zb)
 ***
 ## Personality Test
@@ -51,7 +55,10 @@ Graduation Year: 2028
  - During The Personality Test, people can pick 4 answer options listed as A, B, C, and D
  - Depending on the answer you pick, your personality may be determined as extroverted, introverted, analytical, or creative
  - Once answering each question, you can run a code to determine the results and it will give you which personality you are closest associated with.
- [Link to Personality Test](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-emmakilbride)
+ - The problem I set out to solve included exploring how personality traits could be organized in a structured way instead of informal quizzes
+ - I used Microsoft Excel to build questions and structure logic
+ - I struggled with designing a fair scoring system to calculate the results, but I overcame this challenge it by testing different inputs and adjusting formualas
+ - I  had my brother help me with some coding outside of class
 
 ***
 ## Grade Calculator
@@ -61,5 +68,10 @@ Graduation Year: 2028
  - Using coding from excel, I determined what my final grade would be based on my scores in the class and how much they weighed.
  - I then plugged in a pie chart based on these results to visibly demonstrate the weight of each assignment in the class.
  - During this class, I gained a lot of insight on how excel works. 
+ - The problem I set out to solve included manually calculating grades which can be time-consuming
+ - I found it challenging to correctly apply weight percentages across categories without errors
+ - I overcame this challenge by breaking the formula into smaller parts and testing each separately
+ - I used Excel functions such as weighted calculations and cell references
  [View Grade Calculator Project](EmmaKilbride_ExcelAssesment_CS10501_1pm1)
+
 
