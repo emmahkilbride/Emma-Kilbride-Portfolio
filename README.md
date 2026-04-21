@@ -2,7 +2,7 @@
 # Emma Kilbride
 ## Portfolio
 ***
-<img src="Assets/Banner Photo.jpeg" width="410%">
+<img src="Assets/Banner Photo.jpeg" width="100%">
 
 
 ***
@@ -51,7 +51,7 @@ Graduation Year: 2028
  - During The Personality Test, people can pick 4 answer options listed as A, B, C, and D
  - Depending on the answer you pick, your personality may be determined as extroverted, introverted, analytical, or creative
  - Once answering each question, you can run a code to determine the results and it will give you which personality you are closest associated with.
-Link to Personality Test: [Link to Personality Test](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-emmakilbride)
+ [Link to Personality Test](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-emmakilbride)
 
 ***
 ## Grade Calculator
@@ -61,5 +61,5 @@ Link to Personality Test: [Link to Personality Test](https://github.com/LoyolaUn
  - Using coding from excel, I determined what my final grade would be based on my scores in the class and how much they weighed.
  - I then plugged in a pie chart based on these results to visibly demonstrate the weight of each assignment in the class.
  - During this class, I gained a lot of insight on how excel works. 
- - Link to Excel: [AEmmaKilbride_ExcelAssesment_CS10501_1pm1.xltx](../../../Downloads/AEmmaKilbride_ExcelAssesment_CS10501_1pm1.xltx)
- - 
+ [View Grade Calculator Project](EmmaKilbride_ExcelAssesment_CS10501_1pm1)
+
