@@ -9,7 +9,7 @@
 Contact Info:
 Phone: 7327408388
 Email: emmahkilbride@gmail.com
-***
+
 
 <img src="Assets/img.png" width="250">
 
@@ -59,7 +59,7 @@ Graduation Year: 2028
  - I used Microsoft Excel to build questions and structure logic
  - I struggled with designing a fair scoring system to calculate the results, but I overcame this challenge it by testing different inputs and adjusting formualas
  - I  had my brother help me with some coding outside of class
-
+[Run Personality Test](PersonalityTest/main.py)
 ***
 ## Grade Calculator
  - During this assignment, we created a grade calculator using Excel.
@@ -72,6 +72,10 @@ Graduation Year: 2028
  - I found it challenging to correctly apply weight percentages across categories without errors
  - I overcame this challenge by breaking the formula into smaller parts and testing each separately
  - I used Excel functions such as weighted calculations and cell references
- [View Grade Calculator Project](EmmaKilbride_ExcelAssesment_CS10501_1pm1)
+ <a href="EmmaKilbride_ExcelAssesment_CS10501_1pm1.xlsx">
+  View Grade Calculator Project
+</a>
+ - 
+ - 
 
 
