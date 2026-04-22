@@ -59,7 +59,7 @@ Graduation Year: 2028
  - I used Microsoft Excel to build questions and structure logic
  - I struggled with designing a fair scoring system to calculate the results, but I overcame this challenge it by testing different inputs and adjusting formualas
  - I  had my brother help me with some coding outside of class
-[Run Personality Test](PersonalityTest/main.py)
+[Personality Test Project](https://github.com/emmakilbride/personality-test)
 ***
 ## Grade Calculator
  - During this assignment, we created a grade calculator using Excel.
