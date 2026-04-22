@@ -51,7 +51,7 @@ Graduation Year: 2028
 ## Personality Test
  - I created a personality test using PyCharm that displays different questions to determine personality types of individual.
  - The personality test consisted of about 10 questions people can answer that determines what personality category they are a part of.
- - [Personality Test.png]![Personality Test.png](Assets/Personality%20Test.png)
+![Personality Test](Assets/Personality_Test.png)
  - During The Personality Test, people can pick 4 answer options listed as A, B, C, and D
  - Depending on the answer you pick, your personality may be determined as extroverted, introverted, analytical, or creative
  - Once answering each question, you can run a code to determine the results and it will give you which personality you are closest associated with.
@@ -64,7 +64,7 @@ Graduation Year: 2028
 ## Grade Calculator
  - During this assignment, we created a grade calculator using Excel.
  - This grade calculator included a pie chart that displays the weights of each assignment for each task and columns displaying each class and their assignment weights.
-![Grade Calculator.png](Assets/Grade%20Calculator.png)
+![Grade Calculator](Assets/Grade_Calculator.png)
  - Using coding from excel, I determined what my final grade would be based on my scores in the class and how much they weighed.
  - I then plugged in a pie chart based on these results to visibly demonstrate the weight of each assignment in the class.
  - During this class, I gained a lot of insight on how excel works. 
