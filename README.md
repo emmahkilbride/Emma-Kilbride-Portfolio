@@ -73,8 +73,4 @@ Graduation Year: 2028
  - I overcame this challenge by breaking the formula into smaller parts and testing each separately
  - I used Excel functions such as weighted calculations and cell references
    [Click Here for my Grade Calculator](https://studentsloyola-my.sharepoint.com/:x:/g/personal/ehkilbride_loyola_edu/IQBWhwpw32U4SKxnWyCZA4_8ARkLgmCRCa5YfawPvM4FnA0?e=ga6KTd)
-</a>
- - 
- - 
-
 
